@@ -1,0 +1,6 @@
+spring:
+  data:
+    mongodb:
+      database: candle
+      host: mongo-algo-trade-db
+      port: 27017
